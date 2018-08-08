@@ -1,11 +1,11 @@
-# SIMADMIN Museum v1.0
-Sistem Manajemen Administrasi Museum versi 1.0
+# Sistem Manajemen Administrasi Museum versi 1.0
 
+## Deskripsi
 Sistem Manajemen Administrasi Museum adalah sebuah aplikasi berbasis web yang dibangun di atas platform Codeigniter beserta platform pendukung lainnya seperti JQuery, JQuery-ui, dan Bootstrap.
 
 Sistem Manajemen Administrasi Museum merupakan bagian dari sistem manajemen yang digunakan di dalam lingkungan museum. Sistem ini bertujuan untuk membantu pengelolaan data administrasi museum (bukan koleksi) seperti: Pengelolaan Surat, Pencatatan Keuangan dan Anggaran, Pencatatan Agenda, Personalia (Manajemen Staf), Pencatatan Aktifitas Harian, dan Data Informasi Museum.
 
-# Fitur
+## Fitur
 Sistem Manajemen Administrasi Museum v1.0 menyediakan fitur berupa:
 
 Pencatatan Surat Masuk dan Keluar
@@ -30,3 +30,4 @@ Melakukan pencatatan aktifitas harian staf museum sehingga pengelola museum dapa
 
 Data Informasi Museum
 
+## Lisensi
