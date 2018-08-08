@@ -5,14 +5,16 @@ Sistem Manajemen Administrasi Museum adalah sebuah aplikasi berbasis web yang di
 
 Sistem Manajemen Administrasi Museum merupakan bagian dari sistem manajemen yang digunakan di dalam lingkungan museum. Sistem ini bertujuan untuk membantu pengelolaan data administrasi museum (bukan koleksi) seperti: Pengelolaan Surat, Pencatatan Keuangan dan Anggaran, Pencatatan Agenda, Personalia (Manajemen Staf), Pencatatan Aktifitas Staf, dan Data Informasi Museum.
 
-# Versi Saat Ini
+# Fitur
+Sistem Manajemen Administrasi Museum v1.0 menyediakan fitur berupa:
 
-Nama Aplikasi: Sistem Manajemen Administrasi Museum
+Pencatatan Surat Masuk dan Keluar
+Melakukan pendokumentasian (pencatatan) surat masuk dan keluar museum. Softcopy surat dengan format PDF/JPG, JPEG/PNG/DOC, DOCX dapat diupload ke dalam sistem.
 
-Versi: 1.0
+Pencatatan Keuangan Museum
+Melakukan pencatatan keuangan museum dengan sistem yang sederhana (pemasukan dan pengeluaran) yang dilengkapi dengan input nama judul transaksi, input jenis transaksi, dan kategorisasi transaksi pemasukan dan pengeluaran. Dilengkapi dengan fitur pencarian agenda berdasarkan nama transaksi, tanggal transaksi, dan kategori transaksi.
 
-Rilis: 2018
+Pencatatan Agenda
+Museum dapat melakukan pencatatan agenda kegiatan baik yang akan dilakukan oleh museum atau agenda kegiatan lain di luar museum yang dilengkapi dengan fitur pencarian agenda berdasarkan judul kegiatan dan tanggal kegiatan.
 
-# Kronologi Aplikasi
-
-2018 - Versi 1.0
+Personalia
