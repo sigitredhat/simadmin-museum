@@ -8,7 +8,9 @@ Sistem Manajemen Administrasi Museum merupakan bagian dari sistem manajemen yang
 # Versi Saat Ini
 
 Nama Aplikasi: Sistem Manajemen Administrasi Museum
+
 Versi: 1.0
+
 Rilis: 2018
 
 # Kronologi Aplikasi
